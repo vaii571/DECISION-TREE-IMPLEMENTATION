@@ -57,3 +57,7 @@ The trained Decision Tree is visualized using the plot_tree function from scikit
 Conclusion:
 
 The Decision Tree classification model successfully predicts diabetes with reasonable accuracy. This project provides practical knowledge of machine learning implementation and improves understanding of classification algorithms in healthcare applications.
+
+OUTPUT
+
+<img width="1957" height="1175" alt="Image" src="https://github.com/user-attachments/assets/47c56757-1d5a-474c-919c-2320913c76a5" />
